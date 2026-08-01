@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                            Sarath R Lalu                        <br><br>"I am a Computer Applications (BCA) graduate with a strong foundation in software development, specializing in Python Full-Stack Development.<br><br>On the backend, I build scalable web applications and APIs using Python & Django. On the frontend, I create responsive, interactive user interfaces using React, JavaScript, HTML5, and CSS3.<br><br>Passionate about clean code, problem-solving, and continuous learning, I am eager to contribute to dynamic engineering teams and build impactful web solutions."
+Sarath R Lalu                        <br><br>"I am a Computer Applications (BCA) graduate with a strong foundation in software development, specializing in Python Full-Stack Development.<br><br>On the backend, I build scalable web applications and APIs using Python & Django. On the frontend, I create responsive, interactive user interfaces using React, JavaScript, HTML5, and CSS3.<br><br>Passionate about clean code, problem-solving, and continuous learning, I am eager to contribute to dynamic engineering teams and build impactful web solutions."
 
 
 ## 🌐 Socials:
@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=sarath88744&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sarath88744&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sarath88744&icon=10&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
